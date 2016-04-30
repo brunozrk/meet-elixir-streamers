@@ -1,6 +1,6 @@
 # Streamers
 
-**TODO: Add description**
+Meet Elixir course by Jose Valim
 
 ## Installation
 
